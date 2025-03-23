@@ -3,6 +3,6 @@ djangorestframework
 django-cors-headers
 psycopg2-binary
 gunicorn
-django-environdjango-cors-headers
+django-environ
 djangorestframework-simplejwt  # For JWT authentication
 django-allauth
